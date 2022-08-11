@@ -1,0 +1,3 @@
+[submodule ".submodules/logging-cpp"]
+	path = .submodules/logging-cpp
+	url = https://github.com/andremmvgabriel/logging-cpp.git
