@@ -25,3 +25,6 @@ set( src_networking_lib
 )
 add_library( networking STATIC ${src_networking_lib} )
 target_link_libraries( networking cppzmq )
+
+
+add_subdirectory( tests )
